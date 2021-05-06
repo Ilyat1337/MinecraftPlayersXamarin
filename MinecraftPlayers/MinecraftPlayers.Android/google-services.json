@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436135626071",
+    "project_id": "minecraftplayersxamarin",
+    "storage_bucket": "minecraftplayersxamarin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436135626071:android:61f59450ce822bd9882a12",
+        "android_client_info": {
+          "package_name": "com.ilyat.minecraftplayers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436135626071-4v6gpq48uocaqkomdfb1uldrplop93tr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpJcy84UC2xA5fkS2ITB5IaTVjJyvTaKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436135626071-4v6gpq48uocaqkomdfb1uldrplop93tr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
